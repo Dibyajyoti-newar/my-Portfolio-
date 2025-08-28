@@ -49,12 +49,12 @@ const Hero = () => {
 
                         </div>
 
-                        <p className="text-white-50 md:text-xl relative z-10 pointer-events-none pr-8 sm:pr-40">
+                        <p className="text-[#7e65a8] md:text-xl relative z-10 pointer-events-none pr-8 sm:pr-40">
                             Studying Electronics and Communication Engineering at NIT Silchar, I’m on a path of exploration — crafting a unique blend of skills, fueled by curiosity and focused on creating meaningful solutions.
                         </p>
 
                         <Button
-                            text="See My Work"
+                            text="See My Resume"
                             className="md:w-80 md:h-16 w-60 h-12"
                             id="counter"
                         />
