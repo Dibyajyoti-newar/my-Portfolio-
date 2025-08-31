@@ -1,7 +1,7 @@
 import React from 'react'
 import Background from 'three/src/renderers/common/Background.js'
 import { words } from '../constants'
-import Button from '../components/button'
+import Button from '../components/Button'
 import HeroExperience from '../components/HeroModel/HeroExperience'
 import { blur } from 'three/tsl'
 import { useGSAP } from "@gsap/react";
