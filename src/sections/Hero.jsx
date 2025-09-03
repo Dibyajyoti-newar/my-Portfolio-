@@ -57,6 +57,7 @@ const Hero = () => {
                             text="See My Resume"
                             className="md:w-80 md:h-16 w-60 h-12"
                             id="counter"
+                            href="https://drive.google.com/file/d/1bla2rjD2iFzuV3jaqo6Ow1kg5TCaDpsG/view?usp=sharing"
                         />
                     </div>
                 </header>
