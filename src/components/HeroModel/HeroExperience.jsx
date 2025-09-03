@@ -1,8 +1,14 @@
 import React from 'react'
 import { OrbitControls } from '@react-three/drei'
+<<<<<<< HEAD
 import { Canvas } from '@react-three/fiber';
 import { useMediaQuery } from "react-responsive"
 import Particles from './particles';
+=======
+import { Canvas} from '@react-three/fiber';
+import {useMediaQuery} from "react-responsive"  
+import Particles from './Particles';
+>>>>>>> 7449d0816b8951518c0c30fba3139ca4a617bee1
 const HeroExperience = () => {
     const isMobile = useMediaQuery({ query: "(max-width: 768px)" });
     const isTablet = useMediaQuery({ query: "(max-width: 1024px)" });
