@@ -203,7 +203,7 @@ export const experiences = [
       date: "Sept 2021 - jun 2022",
       grade:"N/A",
       desc: "I completed my JEE coaching at Allen, Guwahati, where I strengthened my fundamentals in mathematics, physics, and chemistry.",
-      degree: "Cotching for JEE Mains and Advanced",
+      degree: "Coaching for JEE Mains and Advanced",
     },
     {
       id: 2,
