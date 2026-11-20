@@ -199,7 +199,7 @@ export const experiences = [
     {
       id: 1,
       img:allenLogo,
-      school: "Allen Carrier Institute, Guwahati(cotching)",
+      school: "Allen Carrier Institute, Guwahati(Coaching)",
       date: "Sept 2021 - jun 2022",
       grade:"N/A",
       desc: "I completed my JEE coaching at Allen, Guwahati, where I strengthened my fundamentals in mathematics, physics, and chemistry.",
