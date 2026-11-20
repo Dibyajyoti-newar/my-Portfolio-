@@ -114,25 +114,7 @@ export const experiences = [
         " Next Js",
       ],
     },
-    {
-      id: 0,
-      img: aiPestLogo,
-      role: "Fullstack Developer",
-      company: "NIT Silchar",
-      date: "May 2025 - July 2025",
-      desc: "we developed an AI-Powered Pest Detection & Prevention System using React.js, TensorFlow/PyTorch, and Firebase. The platform enables farmers to upload plant images, detect pests with 92% accuracy, and receive optimal treatment suggestions. It features an interactive frontend with real-time expert chat and a secure backend built with Flask/FastAPI integrated with Firebase.",
-      skills: [
-        "HTML",
-        "CSS",
-        "JavaScript",
-        "React JS",
-        "Node JS",
-        "Tailwind CSS",
-        "Firebase",
-        "Flask",
-        " Next Js",
-      ],
-    },{
+  {
     id: 1,
     img: aiPestLogo,
     role: "AI Developer",
