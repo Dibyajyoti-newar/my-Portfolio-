@@ -132,7 +132,22 @@ export const experiences = [
         "Flask",
         " Next Js",
       ],
-    },
+    },{
+    id: 1,
+    img: aiPestLogo,
+    role: "AI Developer",
+    company: "Personal Project",
+    date: "April 2026 - Present",
+    desc: "Developed a Knowledge-Base Search Engine using Retrieval-Augmented Generation (RAG). Built a web application that allows users to upload PDF documents and ask questions based on their content. Implemented document parsing, chunking, embeddings, and semantic retrieval using LangChain and ChromaDB, with Gemini 2.5 Flash for generating contextual answers with citations.",
+    skills: [
+        "React JS",
+        "Python",
+        "FastAPI",
+        "LangChain",
+        "ChromaDB",
+        "Gemini AI",
+    ],
+},
   ];
   export const certifications = [
   {
